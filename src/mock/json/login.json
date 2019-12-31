@@ -1,0 +1,26 @@
+{
+  "errno": 0,
+  "errmsg": "success",
+  "data": {
+    "token": "c3b3d345deb34116c8e3925083613b8c",
+    "last_login": 1540280192,
+    "id": 1000001010,
+    "mobile": "13817131714",
+    "email": "",
+    "nickname": "觅食蜂1010号",
+    "avatar": "https:\/\/yyq.img.iqianggou.com\/avatar_default.png",
+    "gender": 3,
+    "birthday": "0000-00-00",
+    "introduction": "",
+    "zone_id": 0,
+    "level_id": 1,
+    "point": 0,
+    "created_at": 1537181131,
+    "updated_at": 1540280127,
+    "is_register": false,
+    "need_bind_mobile": false,
+    "oauth_info": {}
+  },
+  "timestamp": 1540280192,
+  "serverlogid": 0
+}

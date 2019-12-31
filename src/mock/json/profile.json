@@ -1,0 +1,27 @@
+{
+  "errno": 0,
+  "errmsg": "success",
+  "data": {
+    "user_id": 1000001010,
+    "nickname": "觅食蜂1010号",
+    "avatar": "https:\/\/yyq.img.iqianggou.com\/avatar_default.png",
+    "introduction": "",
+    "fans_num": 0,
+    "follow_num": 0,
+    "likes_num": 0,
+    "favorite_num": 0,
+    "total_honey": 1,
+    "has_daily_bonus": false,
+    "is_followed": false,
+    "about_daily_bonus": "https:\/\/m.dev.mishifeng.com\/article?id=10",
+    "keep_sign_days": 3,
+    "article": {
+      "list": [],
+      "total_page": 0,
+      "total_cnt": 0,
+      "page_limit": 20
+    }
+  },
+  "timestamp": 1540280227,
+  "serverlogid": 0
+}

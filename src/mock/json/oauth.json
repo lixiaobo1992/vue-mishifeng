@@ -1,0 +1,20 @@
+{
+  "errno": 0,
+  "errmsg": "success",
+  "data": {
+    "id": 0,
+    "mobile": "",
+    "token": "",
+    "avatar": "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eqXYWITCpkKF9H1lyrI504FspibDhPQ5R0fphficPVSxulE8d1ZTiaGEEJ9lUlxIsy24NXenL9ac1zYg/132",
+    "nickname": "晓寒",
+    "is_register": false,
+    "need_bind_mobile": true,
+    "oauth_info": {
+      "id": 26,
+      "open_id": "oElRL1BrrehxedelGuk4eBuiH-_U",
+      "union_id": "o31SljhvIXvUZT1ydpGgIxT6DEY8"
+    }
+  },
+  "timestamp": 1540210010,
+  "serverlogid": 0
+}
